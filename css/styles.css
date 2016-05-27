@@ -1,1 +1,12 @@
+.jumbotron {
+  text-align: center;
+  width: auto;
+  height: 360px;
+  margin-bottom: 0;
+}
 
+.img-responsive {
+  width: 1000px;
+  height: 360px;
+  max-height: 360px;
+}
